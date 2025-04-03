@@ -22,7 +22,7 @@
     "typecheck": "node_modules/.bin/tsc --watch"
   },
   "devDependencies": {
-    "@types/node": "^16.18.101",
+    "@types/node": "^16.18.126",
     "@types/react": "^17.0.80",
     "@types/react-dom": "^17.0.25"
   }
