@@ -23,7 +23,7 @@
   },
   "devDependencies": {
     "@types/node": "^16.18.126",
-    "@types/react": "^17.0.80",
+    "@types/react": "^17.0.85",
     "@types/react-dom": "^17.0.25"
   }
 }
